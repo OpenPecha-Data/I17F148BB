@@ -1,0 +1,71 @@
+id: 6adcf4f354994bd4ac794336b172a526
+annotation_type: index
+revision: '00001'
+annotations:
+  f3b8f9076b1b495ea11cdbe7f1e97e10:
+    base: 9CFC.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 18
+    - title: Preface
+      span:
+        start: 19
+        end: 29
+    - title: 'Chapter 1: Upodghātaḥ'
+      span:
+        start: 30
+        end: 1355
+    - title: 'Chapter 2: Hetustavaḥ'
+      span:
+        start: 1356
+        end: 3546
+    - title: 'Chapter 3: Nirupamastavaḥ'
+      span:
+        start: 3547
+        end: 5571
+    - title: 'Chapter 4: Adbhutastavaḥ'
+      span:
+        start: 5572
+        end: 6945
+    - title: 'Chapter 5: Rūpastavaḥ'
+      span:
+        start: 6946
+        end: 7797
+    - title: 'Chapter 6: Karuṇāstavaḥ'
+      span:
+        start: 7798
+        end: 9087
+    - title: 'Chapter 7: Vacanastavaḥ'
+      span:
+        start: 9088
+        end: 11167
+    - title: 'Chapter 8: Śāsanastavaḥ'
+      span:
+        start: 11168
+        end: 12581
+    - title: 'Chapter 9: Praṇidhistavaḥ'
+      span:
+        start: 12582
+        end: 14020
+    - title: 'Chapter 10: Mārgaāvatārastavaḥ'
+      span:
+        start: 14021
+        end: 15494
+    - title: 'Chapter 11: Duṣkarastavaḥ'
+      span:
+        start: 15495
+        end: 16930
+    - title: 'Chapter 12: Kauśalastavaḥ'
+      span:
+        start: 16931
+        end: 18400
+    - title: 'Chapter 13: Ānṛṇyastavaḥ'
+      span:
+        start: 18401
+        end: 21137
+    - title: Colophon
+      span:
+        start: 21138
+        end: 21148
